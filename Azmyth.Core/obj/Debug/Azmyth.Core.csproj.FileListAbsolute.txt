@@ -1,0 +1,5 @@
+C:\Users\codergirl\Desktop\World\Azmyth.Core\obj\Debug\Azmyth.Core.csprojResolveAssemblyReference.cache
+C:\Users\codergirl\Desktop\World\Azmyth.Core\bin\Debug\Azmyth.Core.dll
+C:\Users\codergirl\Desktop\World\Azmyth.Core\bin\Debug\Azmyth.Core.pdb
+C:\Users\codergirl\Desktop\World\Azmyth.Core\obj\Debug\Azmyth.Core.dll
+C:\Users\codergirl\Desktop\World\Azmyth.Core\obj\Debug\Azmyth.Core.pdb

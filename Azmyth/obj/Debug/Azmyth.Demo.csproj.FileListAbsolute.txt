@@ -1,0 +1,8 @@
+C:\Users\codergirl\Desktop\World\Azmyth\bin\Debug\World.exe.config
+C:\Users\codergirl\Desktop\World\Azmyth\bin\Debug\World.exe
+C:\Users\codergirl\Desktop\World\Azmyth\bin\Debug\World.pdb
+C:\Users\codergirl\Desktop\World\Azmyth\bin\Debug\Azmyth.Core.dll
+C:\Users\codergirl\Desktop\World\Azmyth\bin\Debug\Azmyth.Core.pdb
+C:\Users\codergirl\Desktop\World\Azmyth\obj\Debug\Azmyth.Demo.csprojResolveAssemblyReference.cache
+C:\Users\codergirl\Desktop\World\Azmyth\obj\Debug\World.exe
+C:\Users\codergirl\Desktop\World\Azmyth\obj\Debug\World.pdb
